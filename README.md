@@ -1,4 +1,4 @@
-# 🧮 cli-calculator Project
+# 🧮 cli-calculator project
 
 ## 🚀 Overview
 
